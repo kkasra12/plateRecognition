@@ -1,0 +1,11 @@
+--2020-06-07 14:46:19--  https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20180402113123_NumberPlate_Swift.jpg
+Resolving cdni.autocarindia.com (cdni.autocarindia.com)... 143.204.94.42, 143.204.94.74, 143.204.94.116, ...
+Connecting to cdni.autocarindia.com (cdni.autocarindia.com)|143.204.94.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59294 (58K) [image/jpeg]
+Saving to: ‘ImageResizer.ashx?n=http:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20180402113123_NumberPlate_Swift.jpg’
+
+                    ImageResizer.ashx?n=   0%[                                                                                  ]       0  --.-KB/s                                  ImageResizer.ashx?n=h  86%[=====================================================================>            ]  50.09K   190KB/s               ImageResizer.ashx?n=http:%2F%2Fcdni.auto 100%[=================================================================================>]  57.90K   219KB/s    in 0.3s    
+
+2020-06-07 14:46:21 (219 KB/s) - ‘ImageResizer.ashx?n=http:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20180402113123_NumberPlate_Swift.jpg’ saved [59294/59294]
+
